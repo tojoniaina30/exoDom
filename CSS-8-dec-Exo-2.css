@@ -1,10 +1,10 @@
-body {
-    padding: 0 auto;
-}
+
 .wrap{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    max-width: 1430px;
+    margin: 0 auto;
 }
 .wrap__left {
     display: flex;
